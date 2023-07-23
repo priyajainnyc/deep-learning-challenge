@@ -8,7 +8,7 @@ This project aims to develop a binary classifier using neural network models for
 
 The dataset received is a CSV containing over 34,000 organizations that have received funding from Alphabet Soup. Within this dataset are several columns that capture metadata about each organization, such as:
 
-<img width="646" alt="image" src="https://github.com/priyajainnyc/deep-learning-challenge/assets/124069684/013cc17c-77bd-4405-b025-eb51cbdcdebb">
+<img width="646" alt="image" src="https://github.com/priyajainnyc/deep-learning-challenge/assets/124069684/41aa4755-0f32-44de-9f8f-67e2f40127ed">
 
 ## Results For Optimized Model:
 
