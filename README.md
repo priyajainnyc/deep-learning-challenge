@@ -38,7 +38,7 @@ The dataset received is a CSV containing over 34,000 organizations that have rec
    * <img width="669" alt="image" src="https://github.com/priyajainnyc/deep-learning-challenge/assets/124069684/44e10c18-db1e-40be-b37b-815f5b9354ec">
    * The binary_crossentropy loss function was used since it is purpose-built for binary classifiers. A metric to ‘accuracy’ so accuracies computed by the loss function are captured in the history object returned by fit.
    * The model only trained for ten epochs since the model achieved the target performance during the first epoch and showed little to no improvement in accuracy after the three epochs.
-   * <img width="805" alt="image" src="https://github.com/vasabril98/deep-learning-challenge/assets/120423945/564d7be8-c268-4b18-800d-21925bbebd19">
+   * <img width="805" alt="image" src="https://github.com/priyajainnyc/deep-learning-challenge/assets/124069684/d4008891-9df2-4336-b29b-4fb9d9781f32">
 
    * One significant change that was added to increase the model performance was adding the ```NAME``` feature back as an input during the model optimization. Due to this change, a significant improvement in the model performance was noticed.
 
