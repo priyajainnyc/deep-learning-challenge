@@ -33,7 +33,7 @@ The dataset received is a CSV containing over 34,000 organizations that have rec
 ### Compiling, Training, and Evaluating the Model
 
 * The Optimized Neural Network Model was defined as follows:
-   * <img width="904" alt="image" src="https://github.com/vasabril98/deep-learning-challenge/assets/120423945/d8743542-10e7-4f9c-873f-59e32ba9916b">
+   * <img width="904" alt="image" src="![A](https://github.com/priyajainnyc/deep-learning-challenge/assets/124069684/f24c69d6-4c7f-433d-b065-3cc0c7e3d8fe)>
    * Since a binary classifier needed to be built,  the sigmoid activation function was used for the output layer. Sigmoid reduces the output to a value from 0.0 to 1.0, representing a probability.
    * Since the model achieved the target performance during the first epoch and to reduce the training time per epoch, fewer neurons were used
    * <img width="669" alt="image" src="https://github.com/vasabril98/deep-learning-challenge/assets/120423945/1837a460-7682-49a4-a18d-0d4ecb6cabb8">
