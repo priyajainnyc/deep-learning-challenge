@@ -36,7 +36,7 @@ The dataset received is a CSV containing over 34,000 organizations that have rec
    * Since a binary classifier needed to be built, the sigmoid activation function was used for the output layer. Sigmoid reduces the output to a value from 0.0 to 1.0, representing a probability.
    * Since the model achieved the target performance during the first epoch and to reduce the training time per epoch, fewer neurons were used
    * <img width="669" alt="image" src="https://github.com/priyajainnyc/deep-learning-challenge/assets/124069684/44e10c18-db1e-40be-b37b-815f5b9354ec">
-   * The binary_crossentropy loss function was used since it is purpose-built for binary classifiers. A metric to ‘accuracy’ so accuracies computed by the loss function are captured in the history object returned by fit.
+   * The binary_crossentropy loss function was used since it is purpose-built for binary classifiers. The metrics was set to ‘accuracy’ so accuracies computed by the loss function are captured in the history object and returned by fit.
    * The model only trained for ten epochs since the model achieved the target performance during the first epoch and showed little to no improvement in accuracy after the three epochs.
    * <img width="805" alt="image" src="https://github.com/priyajainnyc/deep-learning-challenge/assets/124069684/d4008891-9df2-4336-b29b-4fb9d9781f32">
 
